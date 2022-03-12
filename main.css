@@ -1,0 +1,46 @@
+body {
+    background-color: #F8F8F8;
+    margin: 0;
+}
+header {
+display:inline-block;
+width: 800px;
+margin-left: calc(50% - 400px);
+background-color: yellow;
+
+}
+header>img { 
+    float:left;
+    height: 60px;
+}
+
+nav {
+    float: right;
+}
+a {
+    display: inline-block;
+}
+
+main {
+display:inline-block;
+width: 800px;
+background-color: pink;
+margin-left: calc(50% - 400px);
+}
+div {
+    display: inline-block;
+}
+
+h1 {
+    display: inline-block;
+}
+
+ p{
+     display: inline-block;
+ }
+
+main>img {
+   width: 50%;
+  display: inline-block;
+    
+}
